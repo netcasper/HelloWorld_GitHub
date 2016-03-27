@@ -7,6 +7,8 @@ using WWStock.Core;
 using System.IO;
 using Newtonsoft.Json;
 
+// Test for GitHub WWStock, WY_Engine
+
 namespace WWStock.Data
 {
     public struct StockInfo
